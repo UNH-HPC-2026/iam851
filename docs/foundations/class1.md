@@ -79,38 +79,36 @@ the supported mark-up is available from
 
 #### Your turn
 
-Pick a page (like this or any other one), and there should be an edit button
-near the top. Clicking that will show you the source (which you can then edit,
-but you don't necessarily want to save the changes if you're just playing
-around, you can use "preview" to just try things out at first). Take a look how
-the plain text you're editing relates to the formatted page that's generated
-from it.
+You can look at the "source code" for a given page here by clicking on the "Invertocat" (the Github icon), then selecting "suggest an edit", which will take you to the corresponding file in the github repository where this site lives.
+
+However, to keep things even simpler, let's use an actual Github wiki to practice: https://github.com/UNH-HPC-2026/iam851/wiki
 
 Create a new page about yourself. To do this, click the "New Page" button, then
-use your name as the title and write something. After saving the page, go the
+use your name as the title and write something. After saving the page, navigate to the
 [Students](https://github.com/UNH-HPC-2026/iam851/wiki/Students) page, edit it and add a link to the page you just created.
 [As you'll find out, there's always many different ways to achieve the same
 thing when it comes to computers. Alternatively, you can go to the Students page
 first, create the link, and when you click on that link, github will ask whether
 you want to create that new page for yourself.]
 
-Eventually, I'd like you to make a page with some information about yourself (or
-something else -- whatever you want to share), use some formatting, and add a
-picture. That'll be the first homework.
+Eventually, your task is to make a page about yourself (or
+something else -- this is on the public internet right now, so be aware of whatever you want to share), try out some of the formatting styles, and add a
+picture or other external resource. As you'll use mark-down throughout the class, you'll frequently want to copy&paste code snippets or commands / error messages, so this is an opportunity to learn how to do so with proper formatting, too.
 
-### Homework
+### Homework;
 
-- (This will always be part of a given class' homework) Finish the "Your Turn" / "In-class Exercise" assignments above.
+- Finish the "Your Turn" / "In-class Exercise" assignments above. (This will always be part of a given class' homework, even if not explicitly stated.)
 
 - Make sure your account signups are all set.
 
-- Here is a small github classroom [assignment](https://classroom.github.com/a/uJaS1rtI) that introduces git and github.
+- Go through this small first github classroom [assignment](https://classroom.github.com/a/uJaS1rtI) that introduces git and github.
+
+- Pick something you would like to learn about git or version control in general
+  and do some research about it. Be prepared to write a couple of sentences
+  about this topic next class.
 
 <!-- - Create a wiki page about yourself (or your favorite animal / hobby /
   whatever). Use some markup and add a picture or something.
 
 - Go through the first assignment from github classroom (t.b.d.) -->
 
-- Pick something you would like to learn about git or version control in general
-  and do some research about it. Be prepared to write a couple of sentences
-  about this topic next class.

@@ -1,12 +1,8 @@
 # Syllabus: Introduction to High-Performance Computing
 
 - **Course:** IAM751/851
-- **Website:** The class notes etc. will go on the
-  [Course Wiki Page](https://github.com/unh-hpc-2026/iam851/wiki)
-
-```{todo}
-Fix link.
-```
+- **Website:** This syllabus, the class notes, etc. will go on the
+  [Course Documentation Page](https://unh-hpc-2026.github.io/iam851/)
 
 - **Instructor:** Kai Germaschewski,
   [kai.germaschewski@unh.edu](mailto:kai.germaschewski@unh.edu), Morse 245E
@@ -24,9 +20,8 @@ Poll class to figure out what tool to use and set it up.
 add links
 ```
 
-  - You could also checkout github's
-    [discussions](https://github.com/unh-hpc-2026/iam851/discussions) or create
-    an [issue](https://github.com/unh-hpc-2026/iam851/issues).
+  - You can create an [issue](https://github.com/unh-hpc-2026/iam851/issues).
+  - You could also check out "Github Discussions" -- let me know if you'd like me to enable it for this class.
   - [Email](mailto:kai.germaschewski@unh.edu) me for 1-on-1 help, or to set up a
     time to meet.
 
@@ -62,6 +57,8 @@ The last section will provide an overview of some of the visualization packages
 available, with a focus on getting to know python/matplotlib and Visit. Other
 topics are possible, like GPUs or data science / machine learning.
 
+Here is a more detailed living [list of topics](https://github.com/UNH-HPC-2026/iam851/wiki/Topics)
+
 ## Prerequisites
 
 Enrollment in a CEPS graduate program, MATH 753, working knowledge of a
@@ -86,11 +83,12 @@ Here are some books that might be useful:
 - Additional Resources:
 
   - To be added as we go / see the class notes
+  - ChatGPT or your favorite chatbot are usually pretty helpful and knowledgable on computational topics.
 
 ## Grading Policy
 
 Regular homework and reading
-[assignments](https://github.com/unh-hpc-2026/iam851/wiki/Assignments) will be
+assignments will be
 given and are expected to be completed by their due date. Late submissions may
 receive partial credit. Attendance and participation in class discussions and in-class exercises
 is required. Homework will be posted on the respective class web pages; it is
@@ -193,9 +191,7 @@ Working together on homework is encouraged. Obtaining solutions from other
 sources after attempting on your own is also allowed. All sources should be
 acknowledged.
 
-Unless otherwise specified, the use of Automated Writing Tools, including
-chatGPT and similar artificial intelligence (AI) tools, is prohibited in this
-course, unless properly attributed.
+Generally, the use of AI tools (like chatGPT or generative AI coding tools) is allowed in this class, but use of such tools in assignments / projects should be explicitly attributed in detail. It is important to consider them to be tools that may help streamline your work -- however, it is still imperative that you understand what the tool did for you and can explain it -- and would be able to do it yourself.
 
 ### Emotional or Mental Health Distress
 
