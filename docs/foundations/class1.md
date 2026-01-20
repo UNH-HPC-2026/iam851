@@ -23,15 +23,15 @@
   environment as everyone else.
 
   An alternative might to be to use
-  [github codespaces](https://education.github.com/experiences/primer_codespaces).
+  [Github Codespaces](https://education.github.com/experiences/primer_codespaces).
 
 ## Supercomputers
 
 ### At UNH:
 
-<!-- * [UNH unveiling new Cray supercomputer](http://boston.cbslocal.com/2013/11/03/unh-unveiling-new-cray-supercomputer-slated-for-physics-research/). Trillian was UNH's first Cray. -->
+* [UNH unveiling new (at the time) Cray supercomputer](http://boston.cbslocal.com/2013/11/03/unh-unveiling-new-cray-supercomputer-slated-for-physics-research/). Trillian was UNH's first Cray.
 
-- UNH's maintains a Cray supercomputer, called
+- UNH's maintains a "newer" Cray supercomputer, called
   ["Marvin"](https://plasma-use.sr.unh.edu/pmwiki.php?n=Main.Marvin) (a.k.a.
   "Plasma"). It has been
   [installed in 2020](https://www.usnh.edu/it/blog/2020/08/cray-supercomputer-major-research-instrumentation-mri-award).
@@ -112,3 +112,17 @@ picture or other external resource. As you'll use mark-down throughout the class
 
 - Go through the first assignment from github classroom (t.b.d.) -->
 
+
+## Additional Resources
+
+- For further reading on High-Performance Computing, consider exploring the following resources:
+
+    - [Introduction to High-Performance Computing](https://www.hpcwire.com/2021/01/12/a-beginners-guide-to-high-performance-computing/)
+    
+    - [Understanding Supercomputers](https://www.top500.org/lists/2021/11/)
+
+- If you're interested in learning more about Linux, here are some helpful links:
+
+    - [Linux Essentials](https://www.linuxfoundation.org/resources/what-is-linux/)
+
+- Lastly, don't hesitate to reach out to your peers or instructor if you have questions or need assistance with any topics covered in class.
