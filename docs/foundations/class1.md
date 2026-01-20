@@ -64,16 +64,14 @@ In recent years, this class has used a GitHub Wiki to store the class materials,
 a quick and easy way to put them up in a somewhat nicely formatted and organized way, and which makes it easy for anyone
 (including you, the students) to edit them.
 
-This year, I'm trying out using [sphinx](https://sphinx-doc.org) for the materials. Sphinx is a popular documentation generator, essentially the de-facto standard for many open-source projects, in particular those using in Python. It does mean that editing isn't quite as simple as clicking the "Edit" button on a given Wiki page, but it's a useful tool to be familiar with, and it's still fairly easy to edit the documentation.
+This year, I'm trying out using [sphinx](https://sphinx-doc.org) for the materials. Sphinx is a popular documentation generator, essentially the de-facto standard for many open-source projects, in particular those using Python. It does mean that editing isn't quite as simple as clicking the "Edit" button on a given Wiki page, but it's a useful tool to be familiar with, and it's still fairly easy to edit the documentation.
 
-We will use more of GitHub as we go, including me putting up sample code, and
-you forking it, and using it to do your coding assignments.
+We will use GitHub a lot as we go, including me putting up sample code, and you using it to get / submit your coding assignments.
 
 Across GitHub, there are a number of places that allow the user to write simple
 text with a bit of added mark-up and have it formatted nicely, e.g., as
-headlines, or to include code fragments. Example are bug reports ("Issues") or "Pull Requests", ie., requests to merge one's coding work into a project. Github Wikis also use this same format. Sphinx traditionally uses a different text format that serves the same purpose called ["ReStructured Text"](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html), but I've considered the Sphinx site you're looking at to use (almost) the same format that github uses, which is actually called `markdown`. `markdown` is one
-flavor of a lightweight mark-up language, similar but not the same as used,
-e.g., on wikipedia, as this one is more tailored towards coding. An overview of
+headlines, bullet lists, or to include code fragments. Example are bug reports ("Issues") or "Pull Requests", ie., requests to merge one's coding work into a project. Github Wikis also use this same format. Sphinx traditionally uses a different text format that serves the same purpose called ["ReStructured Text"](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html), but I've considered the Sphinx site you're looking at to use (almost) the same format that github uses, which is actually called `markdown`. `markdown` is one
+flavor of a lightweight mark-up language, similar but not the same as used on wikipedia, as this one is more tailored towards coding. An overview of
 the supported mark-up is available from
 [GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
@@ -81,7 +79,7 @@ the supported mark-up is available from
 
 You can look at the "source code" for a given page here by clicking on the "Invertocat" (the Github icon), then selecting "suggest an edit", which will take you to the corresponding file in the github repository where this site lives.
 
-However, to keep things even simpler, let's use an actual Github wiki to practice: https://github.com/UNH-HPC-2026/iam851/wiki
+However, to keep things yet simpler, let's use an actual Github wiki to practice: https://github.com/UNH-HPC-2026/iam851/wiki
 
 Create a new page about yourself. To do this, click the "New Page" button, then
 use your name as the title and write something. After saving the page, navigate to the
