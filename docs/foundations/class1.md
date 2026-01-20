@@ -53,10 +53,10 @@ add links
 - Sign up for [github](https://github.com) (unless you already have a github
   account, you can just use that).
 
-- Post your github user id on slack, so I can add you to the "github
+- Email [me](mailto:kai.germaschewski@unh.edu), so I can add you to the "github
   organization" (`UNH-HPC-2026`) for this class.
 
-- [Sign up](https://classroom.github.com/classrooms/254568940-unh-hpc-2026-classroom-58a820) for the Github Classroom for this class.
+- [Sign up](https://classroom.github.com/a/uJaS1rtI) for the Github Classroom for this class.
 
 ## GitHub Wiki
 
