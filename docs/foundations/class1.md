@@ -56,7 +56,9 @@ add links
 - Post your github user id on slack, so I can add you to the "github
   organization" (`UNH-HPC-2026`) for this class.
 
-## GitHub wiki
+- [Sign up](https://classroom.github.com/classrooms/254568940-unh-hpc-2026-classroom-58a820) for the Github Classroom for this class.
+
+## GitHub Wiki
 
 In recent years, this class has used a GitHub Wiki to store the class materials, which is
 a quick and easy way to put them up in a somewhat nicely formatted and organized way, and which makes it easy for anyone
@@ -98,7 +100,11 @@ picture. That'll be the first homework.
 
 ### Homework
 
+- (This will always be part of a given class' homework) Finish the "Your Turn" / "In-class Exercise" assignments above.
+
 - Make sure your account signups are all set.
+
+- Here is a small github classroom [assignment](https://classroom.github.com/a/uJaS1rtI) that introduces git and github.
 
 <!-- - Create a wiki page about yourself (or your favorite animal / hobby /
   whatever). Use some markup and add a picture or something.
