@@ -7,7 +7,7 @@
 - **Instructor:** Kai Germaschewski,
   [kai.germaschewski@unh.edu](mailto:kai.germaschewski@unh.edu), Morse 245E
 - **Office Hours:** Mon 2-3pm (Morse 245E)
-- **Slack / Discord URL** 
+- **Discord**: [Sign-up link](https://discord.gg/tDTuAMTA) 
 - **Need help?**
   - Ask on Discord. 
   - You can create an [issue](https://github.com/unh-hpc-2026/iam851/issues).
