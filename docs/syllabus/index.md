@@ -7,19 +7,9 @@
 - **Instructor:** Kai Germaschewski,
   [kai.germaschewski@unh.edu](mailto:kai.germaschewski@unh.edu), Morse 245E
 - **Office Hours:** Mon 2-3pm (Morse 245E)
-- **Slack / Discord URL** TBD
-
-```{todo}
-Poll class to figure out what tool to use and set it up.
-```
-
+- **Slack / Discord URL** 
 - **Need help?**
-  - Ask on Slack / Discord TBD
-
-```{todo}
-add links
-```
-
+  - Ask on Discord. 
   - You can create an [issue](https://github.com/unh-hpc-2026/iam851/issues).
   - You could also check out "Github Discussions" -- let me know if you'd like me to enable it for this class.
   - [Email](mailto:kai.germaschewski@unh.edu) me for 1-on-1 help, or to set up a

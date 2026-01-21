@@ -43,12 +43,8 @@
 
 ## Sign up for github and the class
 
-- Sign up for the [class slack/discord] at this
-  [link].
-
-```{todo}
-add links
-```
+- Sign up for the class Discord at this
+  [link](https://discord.gg/tDTuAMTA).
 
 - Sign up for [github](https://github.com) (unless you already have a github
   account, you can just use that).
@@ -56,7 +52,7 @@ add links
 - Email [me](mailto:kai.germaschewski@unh.edu), so I can add you to the "github
   organization" (`UNH-HPC-2026`) for this class.
 
-- [Sign up](https://classroom.github.com/a/uJaS1rtI) for the Github Classroom for this class.
+<!-- - [Sign up](https://classroom.github.com/a/uJaS1rtI) for the Github Classroom for this class. -->
 
 ## GitHub Wiki
 
