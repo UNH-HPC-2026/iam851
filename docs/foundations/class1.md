@@ -91,13 +91,13 @@ picture or other external resource. As you'll use mark-down throughout the class
 
 ### Homework
 
-- Finish the "Your Turn" / "In-class Exercise" assignments above. (This will always be part of a given class' homework, even if not explicitly stated.)
+- (next Tue) Finish the "Your Turn" / "In-class Exercise" assignments above. (This will always be part of a given class' homework, even if not explicitly stated.)
 
-- Make sure your account signups are all set.
+- (by next class) Make sure your account signups are all set.
 
-- Go through this small first github classroom [assignment](https://classroom.github.com/a/uJaS1rtI) that introduces git and github.
+- (next Tue) Go through this small first github classroom [assignment](https://classroom.github.com/a/uJaS1rtI) that introduces git and github.
 
-- Pick something you would like to learn about git or version control in general
+- (by next class) Pick something you would like to learn about git or version control in general
   and do some research about it. Be prepared to write a couple of sentences
   about this topic next class.
 
