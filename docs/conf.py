@@ -23,6 +23,7 @@ extensions = [
     "sphinx.ext.mathjax",
     "sphinx.ext.napoleon",
     "sphinx.ext.todo",
+    "sphinxcontrib.mermaid",
     # "sphinx_autodoc_typehints",
     # "sphinx_copybutton",
 ]
