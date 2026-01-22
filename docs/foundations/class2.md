@@ -80,7 +80,19 @@ gitGraph
 
 ### What is version management good for?
 
-- TBD
+- managing versions
+- sharing, allowing for customization
+- work separately first, merge (or discard) later
+- commit messages allow to more easily go back, understand history
+- backup
+- move code between machines
+- supports team work
+- automate processes
+
+### What are problems?
+
+- mess of versions
+
 
 ## Note on Integrated Development Environments (IDEs)
 
