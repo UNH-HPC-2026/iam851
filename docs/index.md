@@ -7,14 +7,14 @@ This site is generated using [sphinx](https://www.sphinx-doc.org/), a documentat
 
 ```{toctree}
    :caption: Overview
-   :maxdepth: 2
+   :maxdepth: 1
 
    Syllabus <syllabus/index>
 ```
 
 ```{toctree}
    :caption: Foundations
-   :maxdepth: 2
+   :maxdepth: 1
 
    Class 1 - Intro <foundations/class1>
    Class 2 - Version Management, Terminals, Editors <foundations/class2>
