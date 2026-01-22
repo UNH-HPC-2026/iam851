@@ -108,7 +108,7 @@ like [Visual Studio Code](https://code.visualstudio.com/) do.
 
 ### Terminals
 
-These days, probably most, if not all, programs you interact with feature a GUI
+These days most, if not all, programs you interact with feature a GUI
 (graphical user interface) front end. Back in the day, though, interacting with
 programs via text only was state of the art, and this way of working hasn't died
 yet (and I don't think it will anytime soon). In fact, people were quite happy
@@ -167,7 +167,7 @@ useful. Essentially, those are just a text file with a bunch of commands, and
 when you run the script, it behaves just as if you were typing all those
 commands.
 
-Some real world examples:
+Here are some random real world examples:
 
 This just saves me some typing when configuring my code. More importantly, I'll
 inevitably have forgotten how I configured it two days later, so that helps
@@ -189,7 +189,6 @@ cmake \
 A little helper to make it easier to auto-format Fortran files:
 
 ```sh
-(.venv-mac) (base) ➜  ggcmpy git:(main) ✗ cat ~/bin/findent.sh 
 #! /bin/bash
 
 for file in "$@"; do
@@ -203,7 +202,7 @@ done
 ```
 
 
-Another little helper script for comparing some data in HDF5 files:
+Another little helper script for comparing certain data in HDF5 files:
 
 ```sh
 #! /bin/bash
@@ -222,7 +221,7 @@ ID2=`h5ls -r $FILE2 | grep $FLD/p0/3d | cut -d ' ' -f 1`
 h5diff -p 1e-6 -v $FILE1 $FILE2 $ID1 $ID2
 ```
 
-You can use scripts to save you typing the same things all over again. Here's
+You can use scripts to save you typing similar things repeatedly. Here's
 another example: Making a movie, though using a Makefile instead might have been
 better:
 
@@ -324,7 +323,7 @@ more so while trying to find and fix the bugs...
 The most basic way to get that done is to just call the compiler. My innovative
 example program is in `hello.cxx`:
 
-```
+```c++
 #include <cstdio>
 #include <iostream>
 
@@ -342,13 +341,13 @@ main(int argc, char **argv)
 
 So you type:
 
-```
+```sh
 [kai@mbpro hello]$ g++ hello.cxx -o hello
 ```
 
 And it'll compile an executable `hello`, that you can run:
 
-```
+```sh
 [kai@mbpro hello]$ ./hello
 Hi there.
 Hi there from C++.
@@ -447,7 +446,7 @@ the green `Code` button and select the `Codespaces` tab.
 
 <!-- - Go to the list of [Topics](https://github.com/UNH-HPC-2026/iam851/wiki/Topics), and edit it. Add a `+` to topics you're
   particularly interested in, or a `-` to topics you'd prefer to see not a lot
-  of time spent on. Feel free to add your own suggestions. --> -->
+  of time spent on. Feel free to add your own suggestions. -->
 
   <!-- 
 - keeping a record of the history of your project / thesis / whatever
