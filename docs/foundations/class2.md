@@ -1,4 +1,4 @@
-# Class 2 - Version Management
+# Class 2 - Version Management, Terminals, Editors
 
 
 ## Version management
@@ -82,7 +82,7 @@ gitGraph
 
 - TBD
 
-## Notes on Integrated Development Environments (IDEs)
+## Note on Integrated Development Environments (IDEs)
 
 In the course of developing, testing and running code, one needs multiple pieces
 of infrastructure:
@@ -203,7 +203,7 @@ done
 ```
 
 
-Another little helper script for comparing some data in HDF5 files.
+Another little helper script for comparing some data in HDF5 files:
 
 ```sh
 #! /bin/bash
@@ -261,18 +261,17 @@ program. You can do it by using the `chmod` command:
 ```
 
 I put the movie example code into the syllabus repository:
-https://github.com/UNH-HPC-2026/iam851.
+[https://github.com/UNH-HPC-2026/iam851](https://github.com/UNH-HPC-2026/iam851).
 
 A nice, and pretty comprehensive, introduction to shells and the commandline is
-at http://linuxcommand.org/. You don't need to know all of this for this class,
+at [https://linuxcommand.org/](https://linuxcommand.org/). You don't need to know all of this for this class,
 but learning the basics will help make your life easier in the future.
 
 ### Note - End of line encoding:
 
 If bash scripts edited using windows apps are not producing correct file names
 or don't work on Linux or WSL2, problem might be due to a difference in
-character encoding used in windows editors (End of line encoding - EOL:
-https://en.wikipedia.org/wiki/Newline). In order to fix this just change the EOL
+character encoding used in windows editors ([End of line encoding - EOL](https://en.wikipedia.org/wiki/Newline)). In order to fix this just change the EOL
 encoding from "Windows (CR LF)" to "Unix (LF)" and save the file. It is
 typically in the bottom of the editor screen.
 
@@ -418,7 +417,7 @@ problems that happen if one actually tries to do things on more typical local
 and remote computers. So I think codespaces is a great way to get started, but
 eventually, everyone should figure out what works best for them.
 
-To give codespaces a try, go to https://github.com/UNH-HPC-2026/iam851, click on
+To give codespaces a try, go to [https://github.com/UNH-HPC-2026/iam851](https://github.com/UNH-HPC-2026/iam851), click on
 the green `Code` button and select the `Codespaces` tab.
  
 ## Homework (due Tuesday before class)
