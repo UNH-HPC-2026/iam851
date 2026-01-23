@@ -433,40 +433,12 @@ the green `Code` button and select the `Codespaces` tab.
  
 ## Homework (due Tuesday before class)
 
-- TBD
-<!-- - [From class 1] Create a wiki page about yourself (or your favorite animal /
-  hobby / whatever). Use some markup and add a picture or something.
-
-- Go through the first assignment from github classroom, see above. This
-  includes the creation of a wiki page on `git`. Add a brief note (on that same
-  page) on how it went.
-
 - Finish reading the notes above. Not everything may make perfect sense, but try
-  to get the main ideas.
+  to get the main ideas -- and if you have questions, take note and ask them next class!
 
 - Set up a working development environment, including the ability to
 
-  - edit code,
+  - edit code
   - run commands on a UNIX/Linux command line
-  - run a compiler -->
-  <!-- - make a simple shell script and run it. (I didn't really get to saying much
-    about shell scripts in class. The notes above have the basics, essentially
-    all you have to do is put your commands into a text file, and then run it,
-    either using `bash build.sh` or making it executable using `chmod`.) -->
-
-<!-- - Finish "your turn" from above -->
-
-<!-- - Go to the list of [Topics](https://github.com/UNH-HPC-2026/iam851/wiki/Topics), and edit it. Add a `+` to topics you're
-  particularly interested in, or a `-` to topics you'd prefer to see not a lot
-  of time spent on. Feel free to add your own suggestions. -->
-
-  <!-- 
-- keeping a record of the history of your project / thesis / whatever
-- reverting bad changes
-- track down bugs
-- work with others, in parallel fashion
-- backup
-- moving code between machines
-- releasing, sharing code 
--->
+  - run a compiler, and run the resulting program
 
