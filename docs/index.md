@@ -10,6 +10,7 @@ This site is generated using [sphinx](https://www.sphinx-doc.org/), a documentat
    :maxdepth: 1
 
    Syllabus <syllabus/index>
+   Assignments <assignments>
 ```
 
 ```{toctree}
@@ -19,3 +20,5 @@ This site is generated using [sphinx](https://www.sphinx-doc.org/), a documentat
    Class 1 - Intro <foundations/class1>
    Class 2 - Version Management, Terminals, Editors <foundations/class2>
 ```
+
+
