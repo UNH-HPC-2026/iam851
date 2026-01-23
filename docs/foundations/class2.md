@@ -431,6 +431,7 @@ eventually, everyone should figure out what works best for them.
 To give codespaces a try, go to [https://github.com/UNH-HPC-2026/iam851](https://github.com/UNH-HPC-2026/iam851), click on
 the green `Code` button and select the `Codespaces` tab.
  
+(homework)=
 ## Homework (due Tuesday before class)
 
 - Finish reading the notes above. Not everything may make perfect sense, but try

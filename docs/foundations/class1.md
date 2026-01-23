@@ -89,6 +89,7 @@ Eventually, your task is to make a page about yourself (or
 something else -- this is on the public internet right now, so be aware of whatever you want to share), try out some of the formatting styles, and add a
 picture or other external resource. As you'll use mark-down throughout the class, you'll frequently want to copy&paste code snippets or commands / error messages, so this is an opportunity to learn how to do so with proper formatting, too.
 
+(homework)=
 ### Homework
 
 - (next Tue) Finish the "Your Turn" / "In-class Exercise" assignments above. (This will always be part of a given class' homework, even if not explicitly stated.)
