@@ -19,6 +19,7 @@ This site is generated using [sphinx](https://www.sphinx-doc.org/), a documentat
 
    Class 1 - Intro <foundations/class1>
    Class 2 - Version Management, Terminals, Editors <foundations/class2>
+   Class 3 - Writing and Organizing Code <foundations/class3>
 ```
 
 
